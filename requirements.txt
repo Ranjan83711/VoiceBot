@@ -1,0 +1,8 @@
+streamlit
+streamlit-webrtc
+python-dotenv
+openai>=1.55.0
+pydub
+av
+numpy
+streamlit-mic-recorder
